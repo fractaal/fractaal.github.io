@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage-BPlfkjvm.js";import{_ as o,o as r,c as t}from"./index-BzTcKrdy.js";import"./render-dChl5Uk-.js";const s={};function e(c,i){return r(),t(a,{class:"tw-bg-black"})}const n=o(s,[["render",e],["__file","BlankPage.vue"]]);export{n as default};
